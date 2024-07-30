@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there👋 I'm Yash Kalola
 
-<!--
-**yashkalola/yashkalola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Highly motivated and results-oriented individual with strong logic and
+problem-solving skills. Proven ability to learn quickly and excel in
+challenging environments. Eager to leverage Python proficiency and
+analytical skills to contribute to a dynamic team as a DSA intern.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages**:
+  - JavaScript
+  - Python
+  - HTML
+  - CSS
+- **Frameworks**:
+  - MYSql
+- **Tools**:
+  - Git
+  - Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- [LinkedIn]([link-to-linkedin](https://www.linkedin.com/in/yash-kalola))
+- [Portfolio]()
+
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true)
