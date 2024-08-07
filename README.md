@@ -31,12 +31,12 @@ analytical skills to contribute to a dynamic team as a DSA intern.
     <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat" alt="VS Code">
   </div>
 
-    <h2>📈 GitHub Stats</h2>
+  <h2>📈 GitHub Stats</h2>
     <div>
       <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Yash's GitHub stats">
     </div>
 
-    <h2>📊 Top Languages</h2>
+  <h2>📊 Top Languages</h2>
     <div>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Langs">
     </div>
