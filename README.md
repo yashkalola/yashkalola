@@ -1,6 +1,6 @@
-<div align="center">
-## Hi there👋 I'm Yash Kalola
-</div>
+<h3 align="center">
+Hi there👋 I'm Yash Kalola
+</h3>
 Highly motivated and results-oriented individual with strong logic and
 problem-solving skills. Proven ability to learn quickly and excel in
 challenging environments. Eager to leverage Python proficiency and
